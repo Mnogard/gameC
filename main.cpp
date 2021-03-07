@@ -24,5 +24,5 @@ void tongji()
 
 int main()
 {
-
+    cout << "main函数" << endl;
 }
