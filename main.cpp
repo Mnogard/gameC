@@ -15,6 +15,7 @@ double calc_payoff()
 void game()
 {
     cout << "设计游戏规则" << endl;
+    cout << "考虑记忆规则" << endl;
 }
 
 void tongji()
