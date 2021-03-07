@@ -8,7 +8,7 @@ void prodgraph()
 
 double calc_payoff()
 {
-
+    cout << "设计收益矩阵" << endl;
 }
 
 
