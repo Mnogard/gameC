@@ -19,7 +19,7 @@ void game()
 
 void tongji()
 {
-
+    cout << "统计合作者数量" << endl;
 }
 
 int main()
